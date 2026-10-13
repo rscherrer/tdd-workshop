@@ -21,7 +21,7 @@ as well as the CRAN packages:
 
 and their dependencies (which should be automatically downloaded upon installation).
 
-Additionally, sing the [RStudio](https://posit.co/products/open-source/rstudio) (2024.12.1+) IDE would be very helpful.
+Additionally, the [RStudio](https://posit.co/products/open-source/rstudio) (2024.12.1+) IDE would be very helpful.
 
 ## Setup
 
